@@ -13,6 +13,7 @@ main{
   border-radius: 1rem;
   background: var(--bg-card);
   box-shadow: 0 0 20px 10px var(--bg-main);
+  transition: .5s;
 }
 .card__img{
   position: relative;

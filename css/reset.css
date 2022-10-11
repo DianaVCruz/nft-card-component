@@ -1,18 +1,16 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
 
-/* ✔Custom Properties */
 :root{
+  /* Colors */
   --primary-color : hsl(215, 51%, 70%);
   --secundary-color: hsl(178, 100%, 50%);
-  --bg-main: hsl(217, 54%, 11%);
+  --bg-body: hsl(217, 54%, 11%);
   --bg-card: hsl(216, 50%, 16%);
   --color-line: hsl(215, 32%, 27%);
   --text-color: hsl(0, 0%, 100%);
-
   /* Typography */
-  --tipo-principal:'Outfit', sans-serif;
-  --tipo-secundaria:Verdana;
+  --font-family: 'Outfit', sans-serif;
 }
 
 /* Optional */
@@ -115,7 +113,7 @@ body{
   font-size: 100%;
   font-family: var(--tipo-principal);
   color: var(--primary-color);
-  background-color: var(--bg-main);
+  background-color: var(--bg-body);
   /* optional */ line-height: 1.4em; /* Line spacing recommendation: between 1.4em and 1.6em */
   /* optional */ /*hyphens: auto;*/
   /* optional */ font-smooth: always; /* To better define the letter */

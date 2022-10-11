@@ -111,7 +111,7 @@ svg{
 body{
   min-height: 100vh;
   font-size: 100%;
-  font-family: var(--tipo-principal);
+  font-family: var(--font-family);
   color: var(--primary-color);
   background-color: var(--bg-body);
   /* optional */ line-height: 1.4em; /* Line spacing recommendation: between 1.4em and 1.6em */

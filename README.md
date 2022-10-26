@@ -37,7 +37,7 @@ I should be able to:
 
 ### Links
 
-- Solution URL: [Github pages](https://github.com/DianaVCruz/nft-card-component)
+- Solution URL: [Github](https://github.com/dianacruzpro/nft-card-component)
 - Live Site URL: [Netlify](https://nft-car-component.netlify.app/)
 
 ## My process
